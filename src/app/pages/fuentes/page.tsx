@@ -1,6 +1,14 @@
-const About = () => {
-    return(
-        <>Hola About</>
-    )
-}
-export default About;
+"use client";
+
+
+const NotificationPage = () => {
+
+  return (
+    <div className="p-4">
+    
+    </div>
+
+  )
+};
+
+export default NotificationPage;
